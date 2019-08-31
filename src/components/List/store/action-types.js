@@ -1,0 +1,5 @@
+export const INIT_FIRST_DETAIL = 'INIT_FIRST_DETAIL';
+
+export const CHANGE_TIPS = 'CHANGE_TIPS';
+
+export const INIT_NEXT_DETAIL = 'INIT_NEXT_DETAIL';

@@ -1,0 +1,212 @@
+[
+  {
+    "detailArr": [
+      {
+        "id": 1,
+        "img_url": "https://upload-images.jianshu.io/upload_images/7531867-6cd604bd0c11a044.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "鸡爪，我想我不会再去吃你了",
+        "content": "熟悉我的人都知道，我对鸡爪存在深深的热爱。 没吃到鸡爪前，我总觉得那是一种美味的，鸡爪皮试如此的富有嚼劲，弹力。 可是在昨天之后，我就不想去吃了...",
+        "score": 8.3,
+        "writer_name": "两个娃的后妈",
+        "comment_count": 21,
+        "like_count": 25
+      },
+      {
+        "id": 2,
+        "img_url": "https://upload-images.jianshu.io/upload_images/7715567-680fb9e7eaf39bbe.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "后来，我们没有在一起",
+        "content": "有人说，感情里最难熬的放不下大概就是，你我皆良人，我未曾做过伤天害理的事，你也未曾跨越鸿沟做对不起我的事，只是缘分这东西，却成全不了你我。 是啊...",
+        "score": 11.9 ,
+        "writer_name": "安蓉ar",
+        "comment_count": 33,
+        "like_count": 120
+      },
+      {
+        "id": 3,
+        "img_url": "https://upload-images.jianshu.io/upload_images/1186939-f402e227cbbeff42.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "给Controller减负",
+        "content": "三层架构 给Controller减负，最先要考虑的是架构分层。平时简单的demo，业务不复杂，从界面到数据，Controller一个足够 了。但...",
+        "score": 2.7,
+        "writer_name": "老章888",
+        "comment_count": 3,
+        "like_count": 23
+      },
+      {
+        "id": 4,
+        "img_url": "https://upload-images.jianshu.io/upload_images/12594401-415325ebe5aa374c?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "4款良心黑科技APP，没多少人知道，还请大家低调收藏",
+        "content": "1、口袋 口袋是一款聚合性APP，功能非常的全面实用，并且是完全免费的那种。里面提供的工具包括管理各类型文件、查询天气、简单计算、二维码扫描与生...",
+        "score": 1.9,
+        "writer_name": "科技脑洞",
+        "comment_count": 4,
+        "like_count": 11
+      },
+      {
+        "id": 5,
+        "img_url": "https://upload-images.jianshu.io/upload_images/3973862-0e5def26ef2e4d43.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "教你快速撸一个免费HTTPS证书",
+        "content": "小编推荐： Fundebug提供JS、微信小程序、微信小游戏，Node.js和Java错误监控。真的是一个很好用的错误监控服务，众多大佬公司都在...",
+        "score": 8.3,
+        "writer_name": "Fundebug",
+        "comment_count": 16,
+        "like_count": 81
+      },
+      {
+        "id": 6,
+        "img_url": "https://upload-images.jianshu.io/upload_images/15879581-468ee6e45cb84b8b?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "32男与1女的荒岛求生，为拒做单身狗而掀起惊天大屠杀",
+        "content": "如果把一群男人与一名女子隔绝在一座孤岛上会发生什么事？ 女子可能在左右为男的境地中备受照顾，被尊奉为女王。 但真实的案例却是，男人相互血腥残杀，...",
+        "score": 5.1,
+        "writer_name": "薰儿小姐",
+        "comment_count": 2,
+        "like_count": 20
+      },
+      {
+        "id": 7,
+        "img_url": "https://upload-images.jianshu.io/upload_images/15253776-1b64d5727e4fc475.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "设计模式——简单工厂",
+        "content": "简单工厂 什么是工厂？ 集中产生产品、对外提供生产的产品的地方就是工厂。 1、产品接口 2、产品1类 3、产品2类 4、简单工厂 为什么要用这种...",
+        "score": 3.4,
+        "writer_name": "大黑跟小白的日常",
+        "comment_count": 3,
+        "like_count": 38
+      },
+      {
+        "id": 8,
+        "img_url": "https://upload-images.jianshu.io/upload_images/9693047-a9c6a502ced1b303?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "小伙子用C语言实现简单的12306火车售票系统，这技术足以进BAT！",
+        "content": "程序设计要求用C语言写一个简单的火车售票系统，主要实现的功能为： 录入班次信息 浏览班次信息 按班次号查询 按终点站查询 按余票数量排序保存 售...",
+        "score": 1.9,
+        "writer_name": "C语言编程",
+        "comment_count": 13,
+        "like_count": 19
+      },
+      {
+        "id": 9,
+        "img_url": "https://upload-images.jianshu.io/upload_images/15233518-3ac0dc11215d09af.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "腾讯面试Android高级岗。居然被一个多线程基础面倒了？",
+        "content": "前言 一个在深圳从事开发五年的老友一个月前从原公司辞职后，昨天去腾讯总部面试Android高级岗，一面的时候，自我介绍后，陆陆续续问了很多问题，..",
+        "score": 10.0,
+        "writer_name": "Android进阶开发",
+        "comment_count": 4,
+        "like_count": 60
+      },
+      {
+        "id": 10,
+        "img_url": "https://upload-images.jianshu.io/upload_images/5222823-a681d139a6dc6b6c?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "性本无罪！你断片儿多久了？",
+        "content": "我思想开放，认为观看黄色电影没什么不正常的，大家已满十八岁，偶尔欣赏一下有错吗，装什么清纯？我这人说话真实，不因这事儿而自责，不感觉羞耻，我鄙视...",
+        "score": 1.6,
+        "writer_name": "作者阿旭",
+        "comment_count": 3,
+        "like_count": 13
+      }
+    ],
+    "total_page": 2
+  },
+  {
+    "detailArr": [
+      {
+        "id": 11,
+        "img_url": "https://upload-images.jianshu.io/upload_images/7531867-6cd604bd0c11a044.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "鸡爪，我想我不会再去吃你了",
+        "content": "熟悉我的人都知道，我对鸡爪存在深深的热爱。 没吃到鸡爪前，我总觉得那是一种美味的，鸡爪皮试如此的富有嚼劲，弹力。 可是在昨天之后，我就不想去吃了...",
+        "score": 8.3,
+        "writer_name": "两个娃的后妈",
+        "comment_count": 21,
+        "like_count": 25
+      },
+      {
+        "id": 12,
+        "img_url": "https://upload-images.jianshu.io/upload_images/7715567-680fb9e7eaf39bbe.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "后来，我们没有在一起",
+        "content": "有人说，感情里最难熬的放不下大概就是，你我皆良人，我未曾做过伤天害理的事，你也未曾跨越鸿沟做对不起我的事，只是缘分这东西，却成全不了你我。 是啊...",
+        "score": 11.9 ,
+        "writer_name": "安蓉ar",
+        "comment_count": 33,
+        "like_count": 120
+      },
+      {
+        "id": 13,
+        "img_url": "https://upload-images.jianshu.io/upload_images/1186939-f402e227cbbeff42.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "给Controller减负",
+        "content": "三层架构 给Controller减负，最先要考虑的是架构分层。平时简单的demo，业务不复杂，从界面到数据，Controller一个足够 了。但...",
+        "score": 2.7,
+        "writer_name": "老章888",
+        "comment_count": 3,
+        "like_count": 23
+      },
+      {
+        "id": 14,
+        "img_url": "https://upload-images.jianshu.io/upload_images/12594401-415325ebe5aa374c?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "4款良心黑科技APP，没多少人知道，还请大家低调收藏",
+        "content": "1、口袋 口袋是一款聚合性APP，功能非常的全面实用，并且是完全免费的那种。里面提供的工具包括管理各类型文件、查询天气、简单计算、二维码扫描与生...",
+        "score": 1.9,
+        "writer_name": "科技脑洞",
+        "comment_count": 4,
+        "like_count": 11
+      },
+      {
+        "id": 15,
+        "img_url": "https://upload-images.jianshu.io/upload_images/3973862-0e5def26ef2e4d43.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "教你快速撸一个免费HTTPS证书",
+        "content": "小编推荐： Fundebug提供JS、微信小程序、微信小游戏，Node.js和Java错误监控。真的是一个很好用的错误监控服务，众多大佬公司都在...",
+        "score": 8.3,
+        "writer_name": "Fundebug",
+        "comment_count": 16,
+        "like_count": 81
+      },
+      {
+        "id": 16,
+        "img_url": "https://upload-images.jianshu.io/upload_images/15879581-468ee6e45cb84b8b?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "32男与1女的荒岛求生，为拒做单身狗而掀起惊天大屠杀",
+        "content": "如果把一群男人与一名女子隔绝在一座孤岛上会发生什么事？ 女子可能在左右为男的境地中备受照顾，被尊奉为女王。 但真实的案例却是，男人相互血腥残杀，...",
+        "score": 5.1,
+        "writer_name": "薰儿小姐",
+        "comment_count": 2,
+        "like_count": 20
+      },
+      {
+        "id": 17,
+        "img_url": "https://upload-images.jianshu.io/upload_images/15253776-1b64d5727e4fc475.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "设计模式——简单工厂",
+        "content": "简单工厂 什么是工厂？ 集中产生产品、对外提供生产的产品的地方就是工厂。 1、产品接口 2、产品1类 3、产品2类 4、简单工厂 为什么要用这种...",
+        "score": 3.4,
+        "writer_name": "大黑跟小白的日常",
+        "comment_count": 3,
+        "like_count": 38
+      },
+      {
+        "id": 18,
+        "img_url": "https://upload-images.jianshu.io/upload_images/9693047-a9c6a502ced1b303?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "小伙子用C语言实现简单的12306火车售票系统，这技术足以进BAT！",
+        "content": "程序设计要求用C语言写一个简单的火车售票系统，主要实现的功能为： 录入班次信息 浏览班次信息 按班次号查询 按终点站查询 按余票数量排序保存 售...",
+        "score": 1.9,
+        "writer_name": "C语言编程",
+        "comment_count": 13,
+        "like_count": 19
+      },
+      {
+        "id": 19,
+        "img_url": "https://upload-images.jianshu.io/upload_images/15233518-3ac0dc11215d09af.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "腾讯面试Android高级岗。居然被一个多线程基础面倒了？",
+        "content": "前言 一个在深圳从事开发五年的老友一个月前从原公司辞职后，昨天去腾讯总部面试Android高级岗，一面的时候，自我介绍后，陆陆续续问了很多问题，..",
+        "score": 10.0,
+        "writer_name": "Android进阶开发",
+        "comment_count": 4,
+        "like_count": 60
+      },
+      {
+        "id": 20,
+        "img_url": "https://upload-images.jianshu.io/upload_images/5222823-a681d139a6dc6b6c?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+        "title": "性本无罪！你断片儿多久了？",
+        "content": "我思想开放，认为观看黄色电影没什么不正常的，大家已满十八岁，偶尔欣赏一下有错吗，装什么清纯？我这人说话真实，不因这事儿而自责，不感觉羞耻，我鄙视...",
+        "score": 1.6,
+        "writer_name": "作者阿旭",
+        "comment_count": 3,
+        "like_count": 13
+      }
+    ],
+    "total_page": 2
+  }
+]

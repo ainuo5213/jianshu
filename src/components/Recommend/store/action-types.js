@@ -1,0 +1,2 @@
+
+export const INIT_FIRST_PAGE = 'INIT_FIRST_PAGE';
